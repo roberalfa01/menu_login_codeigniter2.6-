@@ -12,6 +12,8 @@ debes cambiar el path por el de tu proyecto en el archivo App.php<br>
 .env<br>
   app_baseURL = 'path_de_tu_proyecto'  #mientras estes en modo de desarrollo<br>
 
+Versión de PHP 8.1.6
+
 
 
 # CodeIgniter 4 Application Starter
