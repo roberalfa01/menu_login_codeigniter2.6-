@@ -6,11 +6,12 @@ Te puede servir de base para aprender y el comienzo de tus proyectos
 Se uso para los menu bootstrap 5.2
 
 **debes cambiar el path por el de tu proyecto en el archivo App.php
-**\app\Config\App.php
- ** $baseURL = 'path_de_tu_proyecto';
+  \app\Config\App.php
+    $baseURL = 'path_de_tu_proyecto';
   
- **.env
- **app_baseURL = 'path_de_tu_proyecto'  #mientras estes en modo de desarrollo
+  .env
+    app_baseURL = 'path_de_tu_proyecto'  #mientras estes en modo de desarrollo
+ **
 
 
 # CodeIgniter 4 Application Starter
