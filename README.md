@@ -1,3 +1,12 @@
+# Menu con su modulo de Login en Codeigniter 2.6
+## Validacion con Ajax en el modulode login <br>
+## Validacion con las propias funciones de Codeigniter en el modulo de Perfil <br>
+<em>  Sencillo y simple </em><br>
+Te puede servir de base para aprender y el comienzo de tus proyectos
+Se uso para los menu bootstrap 5.2
+
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
