@@ -2,7 +2,7 @@
 ## Validación con Ajax en el modulo de login <br>
 ## Validación con las propias funciones de Codeigniter en el modulo de Perfil <br>
 <em>  Sencillo y simple </em><br>
-Te puede servir de base para aprender y el comienzo de tus proyectos
+Te puede servir de base para aprender y el comienzo de tus proyectos<br>
 Se uso para los menu bootstrap 5.2
 
 debes cambiar el path por el de tu proyecto en el archivo App.php<br>
