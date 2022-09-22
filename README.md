@@ -1,5 +1,5 @@
 # Menu con su modulo de Login en Codeigniter 2.6
-## Validación con Ajax en el modulode login <br>
+## Validación con Ajax en el modulo de login <br>
 ## Validación con las propias funciones de Codeigniter en el modulo de Perfil <br>
 <em>  Sencillo y simple </em><br>
 Te puede servir de base para aprender y el comienzo de tus proyectos
