@@ -1,0 +1,20 @@
+.navbar-nav > li {     
+    /* el mayor afecta solo a los li hijos no a todo Si no se  pone el > se los aumenta a todos incluyendo los li del submenu que no deberia */ 
+    margin-right: 50px;
+}
+.fondo-menu {
+    background-color: #0f4210;
+}
+.navbar a {
+    color: #fff !important; 
+}
+.navbar a:visited {
+    color: #fff !important; 
+}
+.navbar a:hover {
+    color: #cddbf5 !important;
+}
+
+.fondo-ventana {
+    background-color: #a1b09b;
+}
